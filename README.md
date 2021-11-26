@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renanflow/">
+    <a href="https://www.linkedin.com/in/henriquevomsteingreghi/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HenriqueGreghi/">
   </a>
 
