@@ -30,7 +30,8 @@
 <code><a href="https://docs.microsoft.com/pt-br/users/HenriqueGreghi/challenges" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" height="40px"></a></code>
 <code><a href="https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-5.0" target="_blank"><img src="https://th.bing.com/th/id/R.7f45fd721eb031819b1f3e0f160692b0?rik=czZMm6lX51OA6w&riu=http%3a%2f%2fgetcodify.com%2fwp-content%2fuploads%2f2016%2f07%2fasp.net-border.png&ehk=kA7WjiYUt6dhQQJxOLuM3O0H7IZqJiucuMBndmC7zYw%3d&risl=&pid=ImgRaw&r=0" height="40px"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-png-transparent.png" height="40px"></a></code>
-code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35px"></a></code>
+<code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://www.mysql.com/"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"></a></code>
+
 
