@@ -1,7 +1,7 @@
 - 👋 Oi eu sou  @HenriqueGreghi
 - 👀 Estou interessado em aprender e evoluir como pessoa e profissionalmente.
 - 🌱 Atualmente estou aprendendo C#| .net| asp.Net| NETCore | HTML5 | CSS | Arquitetura | Entity Framework Core | SQL | Python | por enquanto
-- 📫 How to reach me 
+- 📫 How to reach me henriquevsg@gmail.com
 ...
 - 📫 How to reach me ...www.linkedin.com/in/henriquevomsteingreghi
 
