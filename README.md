@@ -35,4 +35,3 @@
 <code><a href="https://www.mysql.com/"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"></a></code>
 
 
-![Snake animation](https://github.com/henriquegreghi/henriquegreghi/blob/output/github-contribution-grid-snake.svg)
