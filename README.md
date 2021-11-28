@@ -34,4 +34,4 @@
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://www.mysql.com/"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"></a></code>
 
-
+![Snake animation](https://github.com/henriquegreghi/henriquegreghi/blob/output/github-contribution-grid-snake.svg)
